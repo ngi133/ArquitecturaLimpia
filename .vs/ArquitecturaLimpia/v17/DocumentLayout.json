@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA039DFE-208A-4E38-82A3-F8663FE41BAA}|01-Presentacion\\01-Presentacion.csproj|c:\\users\\eduyk\\source\\repos\\arquitecturalimpia\\01-presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA039DFE-208A-4E38-82A3-F8663FE41BAA}|01-Presentacion\\01-Presentacion.csproj|solutionrelative:01-presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|c:\\users\\eduyk\\source\\repos\\arquitecturalimpia\\03-dominio\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D006CE-B152-46A8-BF59-1DF5501C2397}|03-Dominio\\03-Dominio.csproj|solutionrelative:03-dominio\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29043D94-D8D2-44E6-A698-AF7280FFDBE8}|02-Aplicacion\\02-Aplicacion.csproj|c:\\users\\eduyk\\source\\repos\\arquitecturalimpia\\02-aplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29043D94-D8D2-44E6-A698-AF7280FFDBE8}|02-Aplicacion\\02-Aplicacion.csproj|solutionrelative:02-aplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2072C2EF-FD1B-4441-8C8A-1F4162DB1B6A}|04-PersistenciaDeDatos\\04-PersistenciaDeDatos.csproj|c:\\users\\eduyk\\source\\repos\\arquitecturalimpia\\04-persistenciadedatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2072C2EF-FD1B-4441-8C8A-1F4162DB1B6A}|04-PersistenciaDeDatos\\04-PersistenciaDeDatos.csproj|solutionrelative:04-persistenciadedatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\04-PersistenciaDeDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "04-PersistenciaDeDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\04-PersistenciaDeDatos\\Class1.cs",
+              "RelativeToolTip": "04-PersistenciaDeDatos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:20:30.809Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\03-Dominio\\Entidades\\Class1.cs",
+              "RelativeDocumentMoniker": "03-Dominio\\Entidades\\Class1.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\03-Dominio\\Entidades\\Class1.cs",
+              "RelativeToolTip": "03-Dominio\\Entidades\\Class1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAnwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:19:22.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\02-Aplicacion\\Class1.cs",
+              "RelativeDocumentMoniker": "02-Aplicacion\\Class1.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\02-Aplicacion\\Class1.cs",
+              "RelativeToolTip": "02-Aplicacion\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:18:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\01-Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "01-Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\eduyk\\source\\repos\\ArquitecturaLimpia\\01-Presentacion\\Program.cs",
+              "RelativeToolTip": "01-Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:12:22.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

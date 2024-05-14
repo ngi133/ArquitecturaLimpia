@@ -1,0 +1,11 @@
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\bin\Debug\net8.0\03-Dominio.deps.json
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\bin\Debug\net8.0\03-Dominio.dll
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\bin\Debug\net8.0\03-Dominio.pdb
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.AssemblyInfoInputs.cache
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.AssemblyInfo.cs
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.csproj.CoreCompileInputs.cache
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.dll
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\refint\03-Dominio.dll
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\03-Dominio.pdb
+C:\Users\eduyk\source\repos\ArquitecturaLimpia\03-Dominio\obj\Debug\net8.0\ref\03-Dominio.dll
